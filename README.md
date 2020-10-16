@@ -1,1 +1,3 @@
-# starter-es6
+# Javascript ES6 - Starter
+
+[Rocketseat](https://rocketseat.com.br/)
